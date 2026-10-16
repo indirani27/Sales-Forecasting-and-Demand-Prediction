@@ -1,0 +1,6 @@
+# Core Python Libraries for Grocery Store Sales Forecasting Project (Terminal Edition)
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+joblib>=1.3.0
